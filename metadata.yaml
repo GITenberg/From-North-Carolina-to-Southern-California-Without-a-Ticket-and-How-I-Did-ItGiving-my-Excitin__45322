@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43219'
     url: http://www.gutenberg.org/2009/agents/43219
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45322#From-North-Carolina-to-Southern-California-Without-a-Ticket-and-How-I-Did-ItGiving-my-Excitin_
 gutenberg_issued: '2014-04-05'
 gutenberg_type: Text
 identifiers:
